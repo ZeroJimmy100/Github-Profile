@@ -28,3 +28,17 @@
 <img align="left" alt="SQL" width="26px" src="https://banner2.cleanpng.com/20180802/vty/kisspng-clip-art-microsoft-azure-sql-database-microsoft-sq-skills-5b63119fd6c064.4634905815332192318796.jpg"/>
 
 <img align="left" alt="C#" width="26px" src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png"/>
+
+<img align="left" alt="ASP.NET" width="26px" src="https://cdn.volaresystems.com/Images/Posts/2019/12/aspnet_logo.png"/>
+
+<img align="left" alt="Swift" width="26px" src="https://banner2.cleanpng.com/20180504/etq/kisspng-swift-apple-logo-objective-c-5aebf5e611ff18.0621486415254133500737.jpg"/>
+
+<img align="left" alt="AWS" width="26px" src="https://images.techhive.com/images/article/2015/05/aws-logo-100584713-primary.idge.jpg"/>
+
+<img align="left" alt="TensorFlow" width="26px" src="https://www.seekpng.com/png/full/38-385514_open-tensorflow-logo-png.png"/>
+
+<img align="left" alt="Jupyter Notebook" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1280px-Jupyter_logo.svg.png"/>
+
+<img align="left" alt="HTML5" width="26px" src="https://mpng.subpng.com/20190125/wpj/kisspng-computer-icons-html5-scalable-vector-graphics-port-socialpack-chocolate-icon-5c4b3bbcb7d671.680718971548434364753.jpg"/>
+
+<img align="left" alt="CSS" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png"/>
