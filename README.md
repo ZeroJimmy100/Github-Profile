@@ -16,3 +16,15 @@
 <img align="left" alt="React.js" width="26px" src="https://www.pinclipart.com/picdir/big/537-5374089_react-js-logo-clipart.png"/>
 
 <img align="left" alt="MongoDB" width="26px" src="https://mpng.subpng.com/20190401/zsf/kisspng-mongodb-document-oriented-database-nosql-openshift-web-app-development-servcie-in-dehradun-5ca1b8cb8a0f32.3708278115541024755655.jpg"/>
+
+<img align="left" alt="Postman" width="26px" src="https://media.slid.es/uploads/327261/images/5065937/pm-logo-vert.png"/>
+
+<img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png"/>
+
+<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/220px-Python-logo-notext.svg.png"/>
+
+<img align="left" alt="Django" width="26px" src="https://mpng.subpng.com/20180711/rtc/kisspng-django-web-development-web-framework-python-softwa-django-5b45d913f29027.4888902515313042119936.jpg"/>
+
+<img align="left" alt="SQL" width="26px" src="https://banner2.cleanpng.com/20180802/vty/kisspng-clip-art-microsoft-azure-sql-database-microsoft-sq-skills-5b63119fd6c064.4634905815332192318796.jpg"/>
+
+<img align="left" alt="C#" width="26px" src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png"/>
