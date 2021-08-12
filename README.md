@@ -1,11 +1,11 @@
 ### Hi there 👋, thanks for checking out my profile, things about me: 
 
-## - 🔭 I'm currently working on several projects
-## - 🌱 Growing in Machine Learning and as a backend developer
-## - 👯 I'm looking to collaborate on web, game or machine learning apps
-## - 💻 Actively learning through Udemy, Udacity, Coursea, Kaggle and Freebootcamp
-## - 🎯 2021 Goal: Develope a robot using Machine Learning 
-## - ⚡ Fun fact: I love to hike ⛰️ and enjoy side hustles
+- 🔭 I'm currently working on several projects
+- 🌱 Growing in Machine Learning and as a backend developer
+- 👯 I'm looking to collaborate on web, game or machine learning apps
+- 💻 Actively learning through Udemy, Udacity, Coursea, Kaggle and Freebootcamp
+- 🎯 2021 Goal: Develope a robot using Machine Learning 
+- ⚡ Fun fact: I love to hike ⛰️ and enjoy side hustles
 
 ### Languages and Tools: 
 
