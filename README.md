@@ -43,4 +43,3 @@
 
 <img align="left" alt="CSS" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png"/>
 
-## Small detail: actively learning vb .net at the moment and will start uploading more projects soon
