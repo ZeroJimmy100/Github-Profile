@@ -1,6 +1,7 @@
 ### Hi there 👋, thanks for checking out my profile, things about me: 
 
 - 🔭 I'm currently working on several projects
+- Learning NextJS for full stack development
 - 🌱 Growing in Machine Learning and as a backend developer
 - 👯 I'm looking to collaborate on web, game or machine learning apps
 - 💻 Actively learning through Udemy, Udacity, Coursea, Kaggle and Freebootcamp
